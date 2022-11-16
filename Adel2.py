@@ -1,4 +1,4 @@
-# Créer une calculatrice d'IMC demandant à l'utilisateur sa grandeur(en mètres), son poids(en kg). 
+1# Créer une calculatrice d'IMC demandant à l'utilisateur sa grandeur(en mètres), son poids(en kg). 
 # Retournez ensuite la catégorie dans laquelle se trouve la personne.
 
 def calcul_imc():
